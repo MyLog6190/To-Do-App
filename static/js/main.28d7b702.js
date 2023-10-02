@@ -11045,7 +11045,7 @@
               ? void 0
               : {
                   NODE_ENV: "production",
-                  PUBLIC_URL: "",
+                  PUBLIC_URL: "/to-do-app",
                   WDS_SOCKET_HOST: void 0,
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
@@ -11058,7 +11058,7 @@
                 null ===
                   (n = {
                     NODE_ENV: "production",
-                    PUBLIC_URL: "",
+                    PUBLIC_URL: "/to-do-app",
                     WDS_SOCKET_HOST: void 0,
                     WDS_SOCKET_PATH: void 0,
                     WDS_SOCKET_PORT: void 0,
@@ -11087,7 +11087,7 @@
                 null ===
                   (n = {
                     NODE_ENV: "production",
-                    PUBLIC_URL: "",
+                    PUBLIC_URL: "/to-do-app",
                     WDS_SOCKET_HOST: void 0,
                     WDS_SOCKET_PATH: void 0,
                     WDS_SOCKET_PORT: void 0,
